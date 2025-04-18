@@ -26,7 +26,7 @@ O curso está dividido em diversos módulos que abordam desde os fundamentos da 
 - [x] Boas práticas de herança e interfaces
 - [x] Exceções
 - [x] Generics
-- [ ] Collections Framework
+- [x] Collections Framework
 - [x] Enumerações
 - [ ] Trabalhando com strings
 - [x] Trabalhando com números
