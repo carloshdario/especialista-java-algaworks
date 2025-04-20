@@ -28,11 +28,11 @@ O curso está dividido em diversos módulos que abordam desde os fundamentos da 
 - [x] Generics
 - [x] Collections Framework
 - [x] Enumerações
-- [ ] Trabalhando com strings
+- [x] Trabalhando com strings
 - [x] Trabalhando com números
 - [x] Date e Calendar: as APIs legadas
 - [ ] Date/Time API: mais nova e moderna
-- [ ] Classes aninhadas
+- [x] Classes aninhadas
 - [ ] Expressões Lambda e Method Reference
 - [ ] Optional
 - [ ] Streams API
