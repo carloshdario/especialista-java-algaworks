@@ -34,7 +34,7 @@ O curso está dividido em diversos módulos que abordam desde os fundamentos da 
 - [ ] Date/Time API: mais nova e moderna
 - [x] Classes aninhadas
 - [x] Expressões Lambda e Method Reference
-- [ ] Optional
+- [x] Optional
 - [ ] Streams API
 - [ ] Manipulando arquivos com a API clássica de I/O
 - [ ] Manipulando arquivos com NIO.2
