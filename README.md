@@ -33,7 +33,7 @@ O curso está dividido em diversos módulos que abordam desde os fundamentos da 
 - [x] Date e Calendar: as APIs legadas
 - [ ] Date/Time API: mais nova e moderna
 - [x] Classes aninhadas
-- [ ] Expressões Lambda e Method Reference
+- [x] Expressões Lambda e Method Reference
 - [ ] Optional
 - [ ] Streams API
 - [ ] Manipulando arquivos com a API clássica de I/O
