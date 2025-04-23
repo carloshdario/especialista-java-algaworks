@@ -35,8 +35,8 @@ O curso está dividido em diversos módulos que abordam desde os fundamentos da 
 - [x] Classes aninhadas
 - [x] Expressões Lambda e Method Reference
 - [x] Optional
-- [ ] Streams API
-- [ ] Manipulando arquivos com a API clássica de I/O
+- [x] Streams API
+- [x] Manipulando arquivos com a API clássica de I/O
 - [ ] Manipulando arquivos com NIO.2
 - [x] Serialização de objetos
 - [ ] Arquivos JAR e Apache Maven
