@@ -40,7 +40,7 @@ O curso está dividido em diversos módulos que abordam desde os fundamentos da 
 - [ ] Manipulando arquivos com NIO.2
 - [x] Serialização de objetos
 - [ ] Arquivos JAR e Apache Maven
-- [ ] Java Logging API, Logback e SLF4J
+- [x] Java Logging API, Logback e SLF4J
 - [ ] Banco de dados e JDBC
 - [ ] Padrão de projeto: Repository
 - [ ] Reflection API, anotações e classes seladas
